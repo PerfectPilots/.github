@@ -1,7 +1,7 @@
-# Welcome to Perfect Pilots' GitHub Profile! ✈️
+# Welcome to Virtual Pilot Institute' GitHub Profile! ✈️
 
-## What is Perfect Pilots?
-Perfect Pilots is dedicated to creating innovative solutions for pilots in the real world and in the virtual skies.
+## What is Virtual Pilot Institute?
+Virtual Pilot Institute is dedicated to creating innovative solutions for pilots in the real world and in the virtual skies.
 
 ### 🌟 What We Offer:
 - **Flight Simulator Tools:** Dive into our repository of desktop applications tailored specifically for flight simulation enthusiasts.
@@ -18,7 +18,7 @@ Perfect Pilots is dedicated to creating innovative solutions for pilots in the r
 - **Tutorials & Guides:** Check out our collection of tutorials and guides covering various aspects of aviation and flight simulation.
 
 ### 📫 Get in Touch:
-- **Discord:** [Perfect Pilots Discord](https://discord.gg/v6PdKe8fvv)
-- **Email:** [perfectpilotsprogramme@gmail.com](mailto:perfectpilotsprogramme@gmail.com)
+- **Discord:** [Virtual Pilot Institute Discord](https://discord.gg/v6PdKe8fvv)
+- **Email:** [virtualpilotinstitute@gmail.com](mailto:virtualpilotinstitute@gmail.com)
 
 Thanks for stopping by, and happy flying! 🛫
